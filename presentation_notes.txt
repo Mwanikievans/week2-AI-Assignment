@@ -1,0 +1,21 @@
+Slide 1: Title
+- CO₂ Emissions Forecasting (SDG 13: Climate Action)
+
+Slide 2: Problem Statement
+- Predict future CO₂ emissions using open data (e.g., energy use, GDP)
+
+Slide 3: Dataset
+- Source: World Bank, Kaggle
+- Features: GDP, energy use, urban population, emissions
+
+Slide 4: ML Model
+- Random Forest Regression
+- Preprocessing: missing data, normalization
+
+Slide 5: Results
+- R² Score: 0.82
+- Predicted top emitters and trends
+
+Slide 6: Ethics & Impact
+- Bias from unequal data
+- Informs fair climate strategies

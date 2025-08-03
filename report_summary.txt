@@ -1,0 +1,13 @@
+CO₂ Emissions Forecasting for Climate Action (SDG 13)
+
+Problem:
+Identify and predict CO₂ emission trends using economic and energy indicators to support sustainable policies.
+
+ML Approach:
+Supervised learning using Random Forest Regression.
+
+Results:
+Model achieved R² = 0.82. It identifies top CO₂ emitters and highlights at-risk regions based on economic indicators.
+
+Ethical Consideration:
+Data disparities across countries can bias predictions. Ensuring fairness in global climate policy is essential.
